@@ -50,6 +50,13 @@
     <Compile Include="Dias.cs" />
     <Compile Include="Evento.cs" />
     <Compile Include="GameOver.cs" />
+    <Compile Include="Game\Components\Ambient.cs" />
+    <Compile Include="Game\Components\Diary.cs" />
+    <Compile Include="Game\Components\Event.cs" />
+    <Compile Include="Game\Components\Monster.cs" />
+    <Compile Include="Game\Game.cs" />
+    <Compile Include="Game\GameLoop.cs" />
+    <Compile Include="Game\Interface\Menu.cs" />
     <Compile Include="Jogo.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="Monstro.cs" />
@@ -59,5 +66,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
