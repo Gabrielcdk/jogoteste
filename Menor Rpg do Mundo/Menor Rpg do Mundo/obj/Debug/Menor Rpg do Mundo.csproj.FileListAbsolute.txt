@@ -1,0 +1,7 @@
+C:\Users\dkgab\source\repos\Menor Rpg do Mundo\Menor Rpg do Mundo\bin\Debug\Menor Rpg do Mundo.exe.config
+C:\Users\dkgab\source\repos\Menor Rpg do Mundo\Menor Rpg do Mundo\bin\Debug\Menor Rpg do Mundo.exe
+C:\Users\dkgab\source\repos\Menor Rpg do Mundo\Menor Rpg do Mundo\bin\Debug\Menor Rpg do Mundo.pdb
+C:\Users\dkgab\source\repos\Menor Rpg do Mundo\Menor Rpg do Mundo\obj\Debug\Menor Rpg do Mundo.csprojAssemblyReference.cache
+C:\Users\dkgab\source\repos\Menor Rpg do Mundo\Menor Rpg do Mundo\obj\Debug\Menor Rpg do Mundo.csproj.CoreCompileInputs.cache
+C:\Users\dkgab\source\repos\Menor Rpg do Mundo\Menor Rpg do Mundo\obj\Debug\Menor Rpg do Mundo.exe
+C:\Users\dkgab\source\repos\Menor Rpg do Mundo\Menor Rpg do Mundo\obj\Debug\Menor Rpg do Mundo.pdb
